@@ -1,0 +1,35 @@
+.img {
+    max-width: 500px;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+main{
+    background-color: green;
+    
+}
+article{
+    line-height: 25px;
+}
+
+h1{
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+figure{
+    text-align: center;
+    max-width: 100%;
+}
+
+#img-div{
+    padding: 10px;
+    margin: 0;
+}
